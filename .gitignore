@@ -1,0 +1,4 @@
+data/
+*.pkl
+*.npy
+__pycache__/
